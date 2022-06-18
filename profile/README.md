@@ -27,15 +27,6 @@
 </p>
 
 <h3>
-  Next step...
-</h3>
-
-<p>
-  <img alt="VUE.JS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</p>
-
-<h3>
   My git
 </h3>
 
