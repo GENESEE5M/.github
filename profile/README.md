@@ -1,15 +1,15 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hey! It's good to see you here.
+  Ei! Que bom ver você aqui.
 </h1>
 
 <p>
-  Welcome to my page!</br>
-  My name is Doug, Back-End developer and studying to become a Full-Stack,</br>
-  This is my space, here is where I post all my content related to FiveM</b>. </p>
+  Bem vindo a minha pagina!</br>
+  Meu nome é Doug, desenvolvedor Back-End e estudando para se tornar um Full-Stack,</br>
+  Este é o meu espaço, aqui é onde posto todo o meu conteúdo relacionado ao FiveM</b>. </p>
 
 <h3>
-  My knowledge - Front-End
+  Meu conhecimento - Front-End
 </h3>
 
 <p>
@@ -19,7 +19,7 @@
 </p>
 
 <h3>
-  My knowledge - Back-End
+  Meu conhecimento - Back-End
 </h3>
 
 <p>
@@ -27,7 +27,7 @@
 </p>
 
 <h3>
-  My git
+  Meus git
 </h3>
 
 <ul>
@@ -40,13 +40,13 @@
     </a>
     <br/>
     <i>
-      Script able to break some items after committing an accident or getting wet in water
+      Script capaz de quebrar alguns itens após cometer um acidente ou se molhar na água
     </i>
   </li>
 </ul>
 
 <h3>
-  where can you find me
+  Onde você pode me achar
 </h3>
 
 <p>
