@@ -35,7 +35,7 @@
     <a href="https://github.com/GENESEE5M/GENESEEWatch">
       <b>
         <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />
-        GENESEEItemDamage
+        GENESEEWatch
       </b>
     </a>
     <br/>
